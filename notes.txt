@@ -1,0 +1,31 @@
+//Headers
+
+//Home
+
+//Play
+	[Tryout] /tryouts/index.html
+		Tryouts Information
+		Mini About Ultimate
+		Mini About Reign
+	[For Players] /players/index.html
+		Schedule of Events & Deadlines
+		Fees
+	* [Teams] /teams/index.html
+		List of Current Rosters
+		Touring
+		Regional
+
+//Photos
+	/photos/index.html
+		Photo Galleries
+
+
+//About
+	* [About Us]/about/index.html
+		Story & Team History
+		Contact Information
+	[About Ultimate] /ultimate/index.html
+		About Ultimate
+		Learning Resources
+		Ultimate in 10 Rules
+		Spirit of the Game
